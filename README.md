@@ -30,7 +30,6 @@ Bot Status: Ready! - @SkidTheNoob``
 
 ***COMMANDS***
 
-?h - kicks all users.
 ?c - spams the channels.
 ?r - Delete's roles and spams them.
 ?d - Delete's all channels.
