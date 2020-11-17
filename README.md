@@ -18,7 +18,7 @@ Bot Status: Ready! - @SkidTheNoob``
 
 **Windows**
 
-*Download the files or just rip the code /shrug*
+*Download the files*
 
 *Extract the file to your desktop*
 
