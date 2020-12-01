@@ -31,6 +31,6 @@ Bot Status: Ready! - @SkidTheNoob``
 ***COMMANDS***
 
 ?c - spams the channels.
-?r - Delete's roles and spams them.
+?r - Flood's roles.
 ?d - Delete's all channels.
 ?p - Spam's chat with a custom message and mentions everyone.
